@@ -1,0 +1,99 @@
+{
+  "AppADS" : {
+    "AppID" : {
+      "AdmobId" : "pub-3940256099942544",
+      "UnityGameID" : "3937503",
+      "UnityTestMode" : true
+    },
+    "AppOpenAd" : {
+      "Visible" : true,
+      "id" : "ca-app-pub-3940256099942544/3419835294"
+    },
+    "BannerAd_1" : {
+      "AdType" : "facebook",
+      "AdmobBanner" : "ca-app-pub-3940256099942544/6300978111",
+      "FanBanner" : "IMG_16_9_APP_INSTALL#4839518162789497_4839524772788836",
+      "UnityBanner" : "banner"
+    },
+    "BannerAd_2" : {
+      "AdType" : "facebook",
+      "AdmobBanner" : "ca-app-pub-3940256099942544/6300978111",
+      "FanBanner" : "IMG_16_9_APP_INSTALL#4839518162789497_4839524772788836",
+      "UnityBanner" : "banner"
+    },
+    "BannerAd_3" : {
+      "AdType" : "facebook",
+      "AdmobBanner" : "ca-app-pub-3940256099942544/6300978111",
+      "FanBanner" : "IMG_16_9_APP_INSTALL#4839518162789497_4839524772788836",
+      "UnityBanner" : "banner"
+    },
+    "Interstitial_1" : {
+      "AdType" : "facebook",
+      "AdmobInterId" : "ca-app-pub-3940256099942544/1033173712",
+      "FanInterId" : "IMG_16_9_APP_INSTALL#4839518162789497_4839522656122381",
+      "UnityInterId" : "video",
+      "Visible" : true
+    },
+    "Interstitial_2" : {
+      "AdType" : "facebook",
+      "AdmobInterId" : "ca-app-pub-3940256099942544/1033173712",
+      "FanInterId" : "IMG_16_9_APP_INSTALL#4839518162789497_4839522656122381",
+      "UnityInterId" : "video",
+      "Visible" : true
+    },
+    "Interstitial_3" : {
+      "AdType" : "facebook",
+      "AdmobInterId" : "ca-app-pub-3940256099942544/1033173712",
+      "FanInterId" : "IMG_16_9_APP_INSTALL#4839518162789497_4839522656122381",
+      "UnityInterId" : "video",
+      "Visible" : true
+    },
+    "NativeAd_1" : {
+      "AdType" : "facebook",
+      "AdmobNativeId" : "ca-app-pub-3940256099942544/2247696110",
+      "FanNativeId" : "IMG_16_9_APP_INSTALL#4839518162789497_4839521072789206",
+      "Visible" : true
+    },
+    "NativeAd_2" : {
+      "AdType" : "facebook",
+      "AdmobNativeId" : "ca-app-pub-3940256099942544/2247696110",
+      "FanNativeId" : "IMG_16_9_APP_INSTALL#4839518162789497_4839521072789206",
+      "Visible" : true
+    },
+    "NativeAd_3" : {
+      "AdType" : "facebook",
+      "AdmobNativeId" : "ca-app-pub-3940256099942544/2247696110",
+      "FanNativeId" : "IMG_16_9_APP_INSTALL#4839518162789497_4839521072789206",
+      "Visible" : true
+    },
+    "NativeAdList_1" : {
+      "AdmobNativeId" : "ca-app-pub-3940256099942544/2247696110"
+    },
+    "NativeAdList_2" : {
+      "AdmobNativeId" : "ca-app-pub-3940256099942544/2247696110"
+    },
+    "NativeAdList_3" : {
+      "AdmobNativeId" : "ca-app-pub-3940256099942544/2247696110"
+    },
+    "NativeBannerAd_1" : {
+      "FanNativeBannerId" : "IMG_16_9_APP_INSTALL#4839518162789497_4839614326113214",
+      "Visible" : true
+    },
+    "NativeBannerAd_2" : {
+      "FanNativeBannerId" : "IMG_16_9_APP_INSTALL#4839518162789497_4839614326113214",
+      "Visible" : true
+    },
+    "NativeBannerAd_3" : {
+      "FanNativeBannerId" : "IMG_16_9_APP_INSTALL#4839518162789497_4839614326113214",
+      "Visible" : true
+    }
+  },
+  "MoreApps" : {
+    "Link" : "https://play.google.com/store/apps/dev?id=6768033056419806404"
+  },
+  "Version" : {
+    "Link_download" : "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia",
+    "check" : false,
+    "version" : "2.0"
+  }
+}
